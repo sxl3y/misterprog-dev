@@ -14,9 +14,13 @@
 
 ## **⚡ Recent Activity**
 <!--RECENT_ACTIVITY:start-->
+1. 🤝 Became collaborator on [Ibrahim044653/Projet-Garantie](https://github.com/Ibrahim044653/Projet-Garantie)<br>
+2. 🤝 Became collaborator on [Ibrahim044653/Garantie](https://github.com/Ibrahim044653/Garantie)<br>
+3. 🤝 Became collaborator on [Ibrahim044653/GestionDesEcoles](https://github.com/Ibrahim044653/GestionDesEcoles)<br>
+4. 🤝 Became collaborator on [Ibrahim044653/materiaux-construction](https://github.com/Ibrahim044653/materiaux-construction)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 2nd, 2026, 4:37:25 AM
+Last Updated: Tuesday, November 3rd, 2026, 5:28:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!---
